@@ -6,7 +6,7 @@ flowchart TD
     A([Inicio]) -->B[double totalGoles = 0.0;]
     B --> C[int i = 0;]
     C --> D{i < temporada.length}
-    D --> |Sí| E[totalGoles += temporada[i] .getGolesMarcados();]
+    D --> |Sí| E[totalGoles += temporada i .getGolesMarcados ;]
     E --> F[i++] -->D
     D --> |No| G[double mediaGoles = totalGoles / temporada.length;]
     G --> H([return mediaGoles;])
