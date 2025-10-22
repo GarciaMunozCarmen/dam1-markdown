@@ -1,5 +1,6 @@
 # Mermaid Prueba
-
+Mermaid sirve para hacer diagramas, hay varios tipos pero utilizamos diagramas de flujo (flowcharts).
+## Flowchart
 Este diagrama explica un método para sacar la media de goles marcados de un equipo en una temporada
 ```mermaid
 flowchart TD
