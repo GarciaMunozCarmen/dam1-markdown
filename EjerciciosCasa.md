@@ -5,11 +5,11 @@ Este ejercicio ha sido sacado de esta web [Ejercicios Markdown](https://www.eniu
 ## Ejercicio
 |País|Capital|Población|
 |:--:|:-----:|:-------:|
-|Estados Unidos| Washington, D.C. | 331,002,651 |
-|España|Madrid|46,754,778|
-|Francia|París|65,273,511|
-|Alemania|Berlín|83,783,942|
-|Japón|Tokyo|126,476,461|
+|**Estados Unidos**| Washington, D.C. | *331,002,651* |
+|**España**|Madrid|*46,754,778*|
+|**Francia**|París|~~65,273,511~~ *66,356,709*|
+|**Alemania**|Berlín|*83,783,942*|
+|**Japón**|Tokyo|*126,476,461*|
 
 # Ejercicio 2: Código
 ## Java
@@ -34,4 +34,7 @@ body{
 
 ```
 
-# Ejercicio 3: 
+# Ejercicio 3: Citas importantes
+
+> Para conseguir el símbolo de ~~tachar~~ : alt gr + 4
+
